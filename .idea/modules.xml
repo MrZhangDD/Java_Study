@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybatis-Study/mybatis-01/mybatis-01.iml" filepath="$PROJECT_DIR$/Mybatis-Study/mybatis-01/mybatis-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybatis-Study/mybatis-02/mybatis-02.iml" filepath="$PROJECT_DIR$/Mybatis-Study/mybatis-02/mybatis-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-Study/mybatis-03/mybatis-03.iml" filepath="$PROJECT_DIR$/Mybatis-Study/mybatis-03/mybatis-03.iml" />
     </modules>
   </component>
 </project>

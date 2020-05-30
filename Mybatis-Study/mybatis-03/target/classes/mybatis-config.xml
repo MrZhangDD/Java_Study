@@ -7,13 +7,10 @@
     <properties resource="db.properties"/>
 
     <!--日誌設置 标准日志实现-->
-    <!--<settings>
-        <setting name="logImpl" value="STDOUT_LOGGING"/>
-    </settings>-->
-    
     <settings>
-        <setting name="logImpl" value="LOG4J"/>
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
     </settings>
+
     
     <!--起别名-->
     <typeAliases>
@@ -34,7 +31,7 @@
     <!--<mappers>
         <mapper resource="com/zhang/dao/UserMapper.xml"/>
     </mappers>-->
-
+    <!--绑定接口-->
     <mappers>
         <mapper class="com.zhang.dao.UserMapper"/>
     </mappers>
