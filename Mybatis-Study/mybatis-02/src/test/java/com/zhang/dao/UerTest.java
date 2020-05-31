@@ -1,7 +1,7 @@
-package com.zhang.dao;
+package com.mybatis.dao;
 
-import com.zhang.pojo.User;
-import com.zhang.utils.MybatisUtils;
+import com.mybatis.pojo.User;
+import com.mybatis.utils.MybatisUtils;
 import org.apache.ibatis.session.RowBounds;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.log4j.Logger;
